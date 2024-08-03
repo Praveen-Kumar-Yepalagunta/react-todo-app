@@ -15,9 +15,9 @@ This is a frontend Todo List application built with React. It allows users to ad
 ## Setup
 
 1. Clone the repository:
-    
+    ```bash
     git clone https://github.com/your-username/your-repository.git
-    
+    ```
 
 2. Navigate to the project directory:
     ```bash
@@ -48,5 +48,4 @@ The application is designed with the following components:
 - **React**: Used for building the frontend components.
 - **CSS**: Used for styling the components.
 
-## Folder Structure
-
+ 
